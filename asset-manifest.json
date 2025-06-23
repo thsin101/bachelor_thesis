@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bachelor_thesis/static/css/main.5afa7b2d.css",
+    "main.js": "/bachelor_thesis/static/js/main.e1060138.js",
+    "static/media/Picture1.png": "/bachelor_thesis/static/media/Picture1.1052f87b608ed284ebc9.png",
+    "index.html": "/bachelor_thesis/index.html",
+    "main.5afa7b2d.css.map": "/bachelor_thesis/static/css/main.5afa7b2d.css.map",
+    "main.e1060138.js.map": "/bachelor_thesis/static/js/main.e1060138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5afa7b2d.css",
+    "static/js/main.e1060138.js"
+  ]
+}
